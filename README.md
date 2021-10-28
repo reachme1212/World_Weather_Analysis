@@ -20,4 +20,4 @@ Following are the images from the analysis
 
 ![Route](weather_database/route_map.PNG)
 
-![marker](weather_database/cities_map_final.PNG)
+![marker](weather_database/maplabels.PNG)
